@@ -149,7 +149,7 @@ width: 90%;
     
   }
   .navbar-brand h1 { /* Restaurant name */
-    padding-top: 10px;
+    padding-top: 20px;
     font-size: 5vw; /* 1vw = 1% of viewport width */
   }
 
