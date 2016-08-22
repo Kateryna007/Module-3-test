@@ -2,7 +2,7 @@ body {
   font-size: 16px;
   color: black;
     font-family: 'Baloo Paaji', cursive;
-   padding-top: 60px; 
+   padding-top: 80px; 
 }
 section {
   background-color: grey;
@@ -10,7 +10,7 @@ section {
   padding-right: 20px; padding-top: 10px;
 }
 h2{
-  padding-top: 15px;
+  padding-top: 30px;
 }
 
 h3{
